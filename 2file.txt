@@ -1,0 +1,2 @@
+ls
+qbu bizim ikinci dosyamız.
